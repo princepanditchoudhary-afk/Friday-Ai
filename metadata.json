@@ -1,0 +1,6 @@
+{
+  "name": "FRIDAY Trading Desk",
+  "description": "F.R.I.D.A.Y. AI Trading Intelligence Desk — Real Data Multi-Agent System with Orbital Constellation, Real-time Market Pulse, Signal Stream, and Voice Telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
